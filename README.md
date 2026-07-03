@@ -1,4 +1,4 @@
-WHOAMI?!
+## WHOAMI?!
 I'm a developer and designer who navigates the world of code, pixels, and content. For me, a project isn't just a set of code; it's a complete experience. That's why I focus on three core areas: programming to build strong logic, design to create a beautiful and user-friendly interface, and content creation to tell the product's story.<br><br>This journey began with teenage curiosity and participation in science festivals, and today it has led to building real web applications, designing for businesses, and managing digital projects. Every project, from a simple Telegram bot to a complete e-commerce website, is a new opportunity for me to turn challenges into creative solutions.<br><br>My ultimate goal is to create products that don't just "work," but also give the user a good feeling. I'm looking to collaborate on projects where I can create real and lasting value by combining technology and creativity.
 
 ## 👀 What I'm Doing?

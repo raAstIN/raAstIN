@@ -154,60 +154,13 @@ timeline
 
 ## 🎓 Key Competencies
 
-```mermaid
-graph TB
-    subgraph Architecture["🏗️ Architecture & Design"]
-        A1["Clean Code Principles"]
-        A2["SOLID Principles"]
-        A3["Design Patterns"]
-        A4["Microservices"]
-    end
-    
-    subgraph Performance["⚡ Performance & Optimization"]
-        P1["Core Web Vitals"]
-        P2["Code Splitting"]
-        P3["Lazy Loading"]
-        P4["Caching Strategies"]
-    end
-    
-    subgraph Security["🔒 Security & Best Practices"]
-        S1["Authentication & Authorization"]
-        S2["Data Encryption"]
-        S3["API Security"]
-        S4["OWASP Guidelines"]
-    end
-    
-    subgraph DevOps["🚀 DevOps & Infrastructure"]
-        D1["CI/CD Automation"]
-        D2["Infrastructure as Code"]
-        D3["Container Orchestration"]
-        D4["System Monitoring"]
-    end
-    
-    subgraph Agile["🔄 Agile & Collaboration"]
-        AG1["Scrum Methodology"]
-        AG2["Git Workflows"]
-        AG3["Code Review"]
-        AG4["Collaborative Problem Solving"]
-    end
-    
-    style Architecture fill:#667eea,stroke:#333,stroke-width:2px,color:#fff
-    style Performance fill:#764ba2,stroke:#333,stroke-width:2px,color:#fff
-    style Security fill:#f093fb,stroke:#333,stroke-width:2px,color:#fff
-    style DevOps fill:#4facfe,stroke:#333,stroke-width:2px,color:#fff
-    style Agile fill:#43e97b,stroke:#333,stroke-width:2px,color:#fff
-```
-
-### 💡 Specialized Skills
-
-| Category | Skills |
-|----------|--------|
-| 🎨 **Frontend Excellence** | Responsive Design, Accessibility (WCAG), Performance Optimization, SEO, Progressive Enhancement |
-| 🔧 **Backend & APIs** | RESTful APIs, GraphQL, Database Design, Data Validation, Error Handling |
-| 📊 **Data & Analytics** | Real-time Dashboards, Data Visualization, Performance Metrics, User Behavior Analysis |
-| 🔐 **Security & Compliance** | HTTPS/SSL, JWT Tokens, CORS, Rate Limiting, GDPR Compliance, Security Audits |
-| 🤖 **Automation & AI** | Bot Development, Workflow Automation, ML Integration, Intelligent Systems |
-| 🌍 **Scalability** | Load Balancing, Database Optimization, Microservices, Distributed Systems |
+- ✅ **Clean Architecture & Design Patterns** - SOLID principles, MVC, microservices
+- ✅ **Performance Optimization** - Core Web Vitals, lazy loading, code splitting
+- ✅ **Scalable Infrastructure** - Load balancing, caching strategies, database optimization
+- ✅ **Security Best Practices** - Authentication, authorization, data encryption
+- ✅ **Agile Development** - Scrum, Git workflows, collaborative coding
+- ✅ **UI/UX Excellence** - Accessibility (WCAG), responsive design, user research
+- ✅ **DevOps & Automation** - CI/CD, Infrastructure as Code, automated testing
 
 ---
 
@@ -240,86 +193,21 @@ quadrantChart
 
 ---
 
----
-
-## 📈 Currently Working On
-
-```mermaid
-gantt
-    title 2026 Focus Areas & Projects
-    dateFormat YYYY-MM-DD
-    
-    section Frontend
-    Advanced React Patterns     :a1, 2026-01-01, 120d
-    Next.js Performance Tuning :a2, 2026-02-01, 150d
-    
-    section Backend & Automation
-    AI Bot Development         :b1, 2026-01-15, 180d
-    Python Microservices       :b2, 2026-03-01, 120d
-    
-    section DevOps & Infrastructure
-    Kubernetes Deep Dive       :c1, 2026-02-01, 150d
-    CI/CD Pipeline Excellence :c2, 2026-03-15, 100d
-    
-    section Design & Creative
-    Design System Mastery      :d1, 2026-01-01, 160d
-    Motion Graphics Skills     :d2, 2026-04-01, 90d
-```
-
----
-
 ## 🤝 Let's Collaborate!
 
-I'm passionate about projects that push boundaries and create real impact. Looking for someone to help with:
+I'm always interested in projects that challenge conventional thinking and push the boundaries of what's possible with technology. Whether you need:
 
-### 🎯 Project Types I Love
-- **Enterprise Applications** - Scalable, secure, high-performance
-- **Startup MVP** - Rapid prototyping with production-ready code
-- **AI/Automation Solutions** - Intelligent systems & workflow optimization
-- **Full-Stack Solutions** - End-to-end development with beautiful UX
-- **Technical Consulting** - Architecture design, performance optimization, security audits
-- **Open Source** - Contributing to impactful projects
+- 🚀 **High-performance web applications** with exceptional UX
+- 🤖 **Intelligent automation** solutions
+- 🏗️ **Scalable infrastructure** and DevOps expertise
+- 💡 **Technical consulting** on architecture & best practices
 
-### 💬 How to Reach Me
+Feel free to reach out! Let's create something extraordinary together.
 
 <p align="center">
-  
-| Channel | Link |
-|---------|------|
-| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/raAstIN) |
-| 📧 Email | [TheRealSeyed@gmail.com](mailto:TheRealSeyed@gmail.com) |
-| 📱 Instagram | [@raAstIN](https://instagram.com/raAstIN) |
-| 🐙 GitHub | [@raAstIN](https://github.com/raAstIN) |
-
+  <img src="https://github.com/raAstIN.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #667eea;" alt="raAstIN" />
 </p>
 
----
-
-## 🌟 Philosophy & Approach
-
-> **"Great software isn't just about writing code—it's about solving problems elegantly."**
-
-My approach combines:
-- **🧠 Strong Problem-Solving** - Understanding root causes, not just symptoms
-- **🎨 Aesthetic Excellence** - Clean, readable code paired with beautiful UX
-- **⚡ Performance-First** - Every millisecond counts
-- **🔒 Security-Conscious** - Building with threats in mind
-- **🤝 Collaborative Mindset** - Growing together with teams and communities
-
----
-
 <p align="center">
-  <img src="https://github.com/raAstIN.png" width="120" height="120" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px rgba(102, 126, 234, 0.4);" alt="raAstIN" />
-  
-  ### raAstIN
-  **Software Engineer • Problem Solver • Tech Enthusiast**
-  
-  *Transforming ideas into high-performance digital solutions*
-  
-  [![GitHub followers](https://img.shields.io/github/followers/raAstIN?style=social)](https://github.com/raAstIN)
-  [![LinkedIn connections](https://img.shields.io/badge/LinkedIn-raAstIN-blue?style=social&logo=linkedin)](https://linkedin.com/in/raAstIN)
-  
-  ---
-  
-  <sub>Made with ❤️ by raAstIN | Always Learning, Always Growing | © 2026</sub>
+  <strong>Made with ❤️ by raAstIN | Always Learning, Always Growing</strong>
 </p>

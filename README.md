@@ -1,4 +1,4 @@
-## 🚀 About Me
+## 🌪️ WHOAMI?!
 
 I'm a **Software Engineer** who bridges the gap between complex system architecture and premium user experiences. Guided by strong algorithmic thinking and a background in competitive technical festivals, I specialize in engineering **high-performance web applications** where clean code meets exceptional functionality.
 

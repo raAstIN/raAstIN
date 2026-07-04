@@ -38,27 +38,12 @@ graph TB
 
 ## 💼 What I Do
 
-### 🌐 **Frontend & Web Development**
-- 💎 Modern, responsive websites with **Next.js & React**
-- 🎨 **WordPress** CMS with custom themes & plugins
-- 📱 Progressive Web Apps (**PWA**) for native-like experiences
-- 🔷 Type-safe applications with **TypeScript**
-- ⚡ SEO optimization & Core Web Vitals performance
-- 🎯 Responsive design & UI/UX implementation
-
-### 🤖 **Automation & Intelligent Systems**
-- 🔗 Smart bots for **Telegram & Discord**
-- 🐍 Advanced **Python** automation workflows
-- 🧠 AI-powered intelligent solutions
-- 🖥️ Desktop applications with **PyQt/Tkinter**
-- ⚙️ Workflow automation & system integration
-
-### 🏗️ **Infrastructure & DevOps**
-- 🐧 **Linux** environment configuration (Alpine, Ubuntu)
-- 🐳 **Docker** containerization & orchestration
-- 🔄 **CI/CD** pipeline design & implementation
-- 🔒 System security & monitoring
-- 📊 Infrastructure as Code (IaC) practices
+| 🌐 **Frontend Architecture** | 🤖 **Automation & Bots** | 🏗️ **Infrastructure** |
+|:-:|:-:|:-:|
+| Modern responsive websites with **Next.js & React** | Smart bots for **Telegram & Discord** | **Linux** environment configuration |
+| Progressive Web Apps (**PWA**) | Python-based **automation workflows** | **Docker** containerization |
+| **TypeScript** for type-safe applications | AI-powered intelligent systems | **CI/CD** pipeline management |
+| SEO optimization & performance tuning | Desktop apps with **PyQt/Tkinter** | System security & monitoring |
 
 ---
 
@@ -103,8 +88,6 @@ graph TB
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend & Automation**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -136,18 +119,17 @@ graph TB
 ## 📊 Development Workflow & Methodology
 
 ```mermaid
-timeline
-    title Project Lifecycle & Best Practices
-    section Planning & Design
-        📋 Requirements Analysis : Wireframing : UI/UX Design
-    section Development
-        🔨 Frontend Development : 🐍 Backend Setup : 🗄️ Database Design
-    section Quality Assurance
-        🧪 Unit Testing : 🔍 Integration Testing : 📊 Performance Testing
-    section Deployment
-        🚀 Staging Deploy : 🎯 Production Release : ✅ Smoke Testing
-    section Optimization
-        📈 Monitoring & Analytics : 🔧 Performance Tuning : 📝 Documentation
+graph LR
+    A["📋 Design Phase"] --> B["🔨 Development"]
+    B --> C["🧪 Testing & QA"]
+    C --> D["🚀 Deployment"]
+    D --> E["📈 Monitoring & Optimization"]
+    
+    style A fill:#667eea,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#764ba2,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#f093fb,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#4facfe,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#43e97b,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -166,30 +148,14 @@ timeline
 
 ## 🏆 Achievements & Highlights
 
-```mermaid
-quadrantChart
-    title Technical Excellence Metrics
-    x-axis Low --> High
-    y-axis Low --> High
-    Performance: [0.85, 0.9]
-    Security: [0.9, 0.85]
-    Scalability: [0.8, 0.88]
-    Maintainability: [0.88, 0.92]
-    User Experience: [0.9, 0.95]
-    Innovation: [0.85, 0.87]
 ```
-
-### 🎯 Notable Work Areas
-
-| Area | Expertise | Impact |
-|------|-----------|--------|
-| 🚀 **High-Performance Web Apps** | React, Next.js, Optimization | 100% Uptime, Sub-100ms Load Time |
-| 🤖 **AI Automation** | Python, Bot APIs, ML Integration | 24/7 Intelligent Workflows |
-| 🔐 **Enterprise Security** | Best Practices, Compliance | Zero Security Incidents |
-| 📱 **Cross-Platform Solutions** | Web, Desktop, Mobile | Unified Codebase Strategy |
-| 🎨 **Design Systems** | Figma to Code | Consistent, Accessible UX |
-| 📊 **Data-Driven Development** | Analytics, Real-time Dashboards | Actionable Insights |
-| 🔧 **DevOps Excellence** | Docker, CI/CD, Infrastructure | Automated, Reliable Deployments |
+🎯 High-Performance Web Applications    |  100% Uptime Focus
+🤖 AI-Powered Automation Solutions      |  End-to-End Implementation
+🔐 Enterprise-Grade Security            |  Compliance & Best Practices
+📱 Cross-Platform Development           |  Web, Desktop, Mobile
+🎨 Premium Design Systems               |  Figma-to-Code Expertise
+📊 Data-Driven Solutions                |  Real-time Analytics Integration
+```
 
 ---
 
